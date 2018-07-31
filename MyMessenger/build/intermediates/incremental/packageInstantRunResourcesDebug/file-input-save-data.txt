@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Jul 31 14:51:17 CST 2018
+1.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+2.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_mian.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\2018\\AIDLTest\\AIDL\\activityMsgToService\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian.xml",
+        "source": "D:\\2018\\AIDLTest\\AIDL\\activityMsgToService\\src\\main\\res\\layout\\activity_mian.xml"
+    },
+    {
+        "merged": "D:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian.xml",
+        "source": "D:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\src\\main\\res\\layout\\activity_mian.xml"
+    }
+]

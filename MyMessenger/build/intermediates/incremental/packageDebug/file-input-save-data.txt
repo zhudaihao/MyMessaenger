@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Jul 31 14:51:18 CST 2018
+2.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aea04300739c5e49ccf2e101c707fc9331d3c7ed
+5.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+2.set=DEX
+4.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fad30cbb604af1e77d83681ced9cb66a5d2b3b9\\classes.dex
+1.set=DEX
+2.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aea04300739c5e49ccf2e101c707fc9331d3c7ed\\classes.dex
+0.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fad30cbb604af1e77d83681ced9cb66a5d2b3b9
+4.file=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_mian.xml
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\2018\\AIDLTest\\AIDL\\activityMsgToService\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\2018\\AIDLTest\\AIDL\\activityMsgToService\\src\\main\\res\\drawable\\icon.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Jul 31 14:51:18 CST 2018
+base.0=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aea04300739c5e49ccf2e101c707fc9331d3c7ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fad30cbb604af1e77d83681ced9cb66a5d2b3b9\\classes.dex
+base.1=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fad30cbb604af1e77d83681ced9cb66a5d2b3b9
+file.0=D\:\\2018\\AIDLTest\\MyMessaenger\\MyMessenger\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aea04300739c5e49ccf2e101c707fc9331d3c7ed\\classes.dex
